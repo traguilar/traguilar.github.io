@@ -50,6 +50,13 @@ h1, h2 {
     border: none;
 }
 
+.projet img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+}
+
+
 footer {
     text-align: center;
     font-size: 0.9rem;
